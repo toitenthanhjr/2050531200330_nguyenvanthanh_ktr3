@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Thì quá khứ hoàn thành"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:textSize="20sp"
+
+        android:text="Thì quá khứ hoàn thành dùng để diễn tả một hành động xảy ra trước một hành động khác và cả hai hành động này đều đã xảy ra trong quá khứ. Hành động nào xảy ra trước thì dùng thì quá khứ hoàn thành, hành động xảy ra sau thì dùng thì quá khứ đơn.
+Dùng trong trường hợp 2 hành động cùng xảy ra trong quá khứ, ta dùng thì quá khứ hoàn thành cho hành động xảy ra trước và quá khứ đơn cho hành động xảy ra sauThì quá khứ hoàn thành được sử dụng để diễn tả hành động đã xảy ra và đã hoàn thành trước một thời điểm được nói đến trong quá khứ, hoặc trước một hành động khác cũng đã kết thúc trong quá khứ." />
+
+</RelativeLayout>
+
+

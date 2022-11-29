@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Thì hiện tại đơn"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:textSize="20sp"
+
+        android:text="Định nghĩa: Hiện tại đơn là thì được sử dụng để diễn tả một thói quen/hành động lặp đi lặp lại trong hiện tại hoặc chân lý, điều hiển nhiên.
+
+Đây là dạng thì đơn giản nhất nhưng là nền tảng để các bạn học các thì khác. Vì thế, các bạn cần chú ý thực hành đầy đủ để ghi nhớ bài học nữa nhé!
+
+Lưu ý:
+
+- Với các từ có tận cùng là “o”, “ch”, “sh”, “x”, “s” thì khi dùng với ngôi số ít, thêm đuôi “es”. (go -goes; do – does; watch – watches; fix – fixes, miss – misses, wash - washes )
+
+- Với các từ có tận cùng là “y” thì khi dùng với ngôi số ít, bỏ “y” và thêm đuôi “ies” (copy – copies; study – studies)
+
+- Với các từ còn lại, thêm đuôi “s”. (see – sees; play – plays,…)
+Trong cách sử dụng thì hiện tại đơn thường xuất hiện các trạng từ chỉ tần suất cơ bản như: always, usually, often, sometimes, rarely, everyday, once a month, in the morning, once in a blue moon…
+
+Tuy nhiên, những từ/cụm từ trên khá phổ biến và nhàm chán, khi đưa vào câu trong IELTS cũng chỉ sử dụng 1 cấu trúc là S + adverb + verb, khiến cho thí sinh không thể hiện được sự đa dạng về ngữ pháp. Nên hãy tham khảo những cụm từ thay thế dưới đây." />
+
+</RelativeLayout>
+
+
